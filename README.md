@@ -40,7 +40,7 @@
 -  Run `app` in your emulator or your Android smartphone
 
 ## [](#license):memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/brunoleomont/comic/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/brunoleomont/MyDataWithSharedPreferences/blob/master/LICENSE) for more information.
 
 ----------
 
